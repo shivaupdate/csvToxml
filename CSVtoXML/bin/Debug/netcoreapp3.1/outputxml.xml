@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<root>
+  <Order>
+    <var value="ORD001" />
+    <var value="CON001" />
+    <var value="PARC001" />
+    <var value="Bob Berg" />
+    <var value="10 Baker Street" />
+    <var value="Peckham" />
+    <var value="London" />
+    <var value="" />
+    <var value="GB" />
+    <var value="1" />
+    <var value="1.1" />
+    <var value="0.004" />
+    <var value="Pen" />
+    <var value="" />
+  </Order>
+  <Order>
+    <var value="ORD001" />
+    <var value="CON001" />
+    <var value="PARC002" />
+    <var value="Bob Berg" />
+    <var value="10 Baker Street" />
+    <var value="Peckham" />
+    <var value="London" />
+    <var value="" />
+    <var value="GB" />
+    <var value="2" />
+    <var value="3.4" />
+    <var value="0.3" />
+    <var value="Pencil Case" />
+    <var value="" />
+  </Order>
+  <Order>
+    <var value="ORD002" />
+    <var value="CON002" />
+    <var value="PARC003" />
+    <var value="Frank Berg" />
+    <var value="10 Baker Street" />
+    <var value="Peckham" />
+    <var value="London" />
+    <var value="" />
+    <var value="GB" />
+    <var value="1" />
+    <var value="8" />
+    <var value="0.5" />
+    <var value="Socks" />
+    <var value="" />
+  </Order>
+  <Order>
+    <var value="ORD003" />
+    <var value="CON003" />
+    <var value="PARC004" />
+    <var value="D Cameron" />
+    <var value="10 Downing St" />
+    <var value="Brixton" />
+    <var value="" />
+    <var value="London" />
+    <var value="GB" />
+    <var value="1" />
+    <var value="80" />
+    <var value="1.9" />
+    <var value="Pen" />
+    <var value="" />
+  </Order>
+  <Order>
+    <var value="ORD004" />
+    <var value="CON004" />
+    <var value="PARC005" />
+    <var value="Luigi Da Vinci" />
+    <var value="Casa di Bolos" />
+    <var value="Dulce Av." />
+    <var value="Milano" />
+    <var value="" />
+    <var value="IT" />
+    <var value="1" />
+    <var value="80" />
+    <var value="1.9" />
+    <var value="Stilos Roj�" />
+    <var value="EUR" />
+  </Order>
+</root>

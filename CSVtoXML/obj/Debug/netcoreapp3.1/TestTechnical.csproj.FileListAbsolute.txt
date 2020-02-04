@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\TestTechnical\TestTechnical\bin\Debug\netcoreapp3.1\TestTechnical.exe
+C:\Users\DELL\source\repos\TestTechnical\TestTechnical\bin\Debug\netcoreapp3.1\TestTechnical.deps.json
+C:\Users\DELL\source\repos\TestTechnical\TestTechnical\bin\Debug\netcoreapp3.1\TestTechnical.runtimeconfig.json
+C:\Users\DELL\source\repos\TestTechnical\TestTechnical\bin\Debug\netcoreapp3.1\TestTechnical.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\TestTechnical\TestTechnical\bin\Debug\netcoreapp3.1\TestTechnical.dll
+C:\Users\DELL\source\repos\TestTechnical\TestTechnical\bin\Debug\netcoreapp3.1\TestTechnical.pdb
+C:\Users\DELL\source\repos\TestTechnical\TestTechnical\obj\Debug\netcoreapp3.1\TestTechnical.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\TestTechnical\TestTechnical\obj\Debug\netcoreapp3.1\TestTechnical.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\TestTechnical\TestTechnical\obj\Debug\netcoreapp3.1\TestTechnical.AssemblyInfo.cs
+C:\Users\DELL\source\repos\TestTechnical\TestTechnical\obj\Debug\netcoreapp3.1\TestTechnical.dll
+C:\Users\DELL\source\repos\TestTechnical\TestTechnical\obj\Debug\netcoreapp3.1\TestTechnical.pdb
